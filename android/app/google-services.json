@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917866347943",
+    "project_id": "v-news-ecea2",
+    "storage_bucket": "v-news-ecea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917866347943:android:d1932522e423fbd7c20a82",
+        "android_client_info": {
+          "package_name": "com.example.vnewszz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfULXl5E37ykwNc-HF4cRbSJNLo4txTqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
